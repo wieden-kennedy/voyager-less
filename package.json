@@ -2,12 +2,19 @@
   "name": "voyager-less",
   "version": "0.1.12",
   "description": "Less task for voyager",
+  "keywords": [
+    "voyager", "less", "csso", "task"
+  ],
+  "homepage": "https://github.com/wieden-kennedy/voyager-less",
+  "bugs": {
+    "url": "https://github.com/wieden-kennedy/voyager-less/issues"
+  },
   "main": "index.js",
   "author": "David Glivar <davidglivar@gmail.com>",
-  "license": "ISC",
+  "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git@github.com:davidglivar/voyager-less.git"
+    "url": "git@github.com:wieden-kennedy/voyager-less.git"
   },
   "dependencies": {
     "gulp-csso": "^0.2.9",
