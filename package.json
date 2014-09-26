@@ -1,6 +1,6 @@
 {
   "name": "voyager-less",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Less task for voyager",
   "keywords": [
     "voyager", "less", "csso", "task"
